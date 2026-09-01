@@ -13,13 +13,13 @@
   "starting_equity_set_date": "2026-08-20",
   "starting_equity_note": "Reset this + the date whenever the user adds/removes funds or explicitly begins a new tracking period. This is the base the drawdown ladder (state doc §9) measures against — not the same thing as start_of_day_equity below.",
 
-  "current_session_date": "2026-08-31",
-  "start_of_day_equity": 29.44,
+  "current_session_date": "2026-09-01",
+  "start_of_day_equity": 29.368,
   "daily_loss_limit_hit_today": false,
 
   "consecutive_losing_trades": 0,
   "signal_only_trades_logged": 0,
 
   "last_updated_by": "claude",
-  "last_updated_date": "2026-08-31T09:00:00-04:00"
+  "last_updated_date": "2026-09-01T09:00:00-04:00"
 }
